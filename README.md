@@ -5,3 +5,4 @@
 # I used the Selenium library, not BeatifulSoup. I have tried both and Selenium worked but BS didn't. Maybe you can also accomplish this by BS.
 # In my project, firstly on the "report builder" page of The Numbers I got the movie list (I filtered by year, and some other criteria) to get the movie page links and the data on the list.
 # This list can be easily copied and pasted to Excel (no need for coding). 
+# For the project, firstly movie page URLs are scraped from the report page. Then, by using these URLs, all the needed data can be scraped.
